@@ -1,4 +1,4 @@
-\# BHUs Management System
+&#x20;BHUs Management System
 
 
 
@@ -6,7 +6,7 @@ A desktop-based Healthcare Management System developed using C# and Windows Form
 
 
 
-\## Features
+&#x20;Features
 
 \- Patient Registration
 
@@ -18,7 +18,13 @@ A desktop-based Healthcare Management System developed using C# and Windows Form
 
 
 
-\## Developer
+&#x20;👨‍💻 Team Members
 
-Yasir Suhail
+
+
+\- Yasir Suhail 
+
+\- Jawad Ahmad
+
+\- Hassan Aqil
 
